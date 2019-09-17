@@ -1,0 +1,7 @@
+*.prefs
+*.class
+*.class
+greatOutdoor/target/classes/com/capgemini/go/dao/TimeReporterDaoImpl.class
+greatOutdoor/target/classes/com/capgemini/go/dao/TimeReporterDao.class
+greatOutdoor/target/classes/com/capgemini/go/dao/TimeReporterDaoImpl.class
+/target/
